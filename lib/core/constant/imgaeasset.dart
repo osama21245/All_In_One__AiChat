@@ -20,7 +20,7 @@ class AppImageAsset {
   static const String T_shirtImage = "$rootImages/T_shirt.png";
   static const String phoneImage = "$rootImages/phone.jpg";
   static const String lapTopImage = "$rootImages/2.png";
-  static const String CameraImage = "$rootImages/5.png";
+  static const String CameraImage = "$rootImages/5.png5";
   static const String loading = "$rootLootie/greencart.json";
   static const String nodata = "$rootLootie/empty.json";
   static const String offline = "$rootLootie/offline.json";
