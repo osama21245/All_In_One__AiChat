@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349874521433",
+    "project_id": "easyway-9dad3",
+    "storage_bucket": "easyway-9dad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349874521433:android:0c5d732fa51d999f917848",
+        "android_client_info": {
+          "package_name": "cloud.osamagamil.easyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349874521433-40if6cncp0dm4d2f144mud57r508633g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.osamagamil.easyway",
+            "certificate_hash": "28ead12a7678abb5545f679df9e1c87a958de2df"
+          }
+        },
+        {
+          "client_id": "349874521433-ptducao1ufvbg7mvf80c7a135r3kl6qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXXX0XVFzmcE4jsi-yT_B9hsuYxmUJAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349874521433-ptducao1ufvbg7mvf80c7a135r3kl6qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
